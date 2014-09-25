@@ -58,4 +58,44 @@ Veröffentlichen von Änderungen
 Änderungen, die Sie im Modus "Entwurf" durchführen, sind zunächst nicht öffentlich sichtbar. Sobald Sie etwas geändert haben, erscheint oben rechts auf der Seite ein neuer Knopf mit der Aufschrift "Änderungen publizieren". Erst wenn Sie auf diesen klicken, werden Ihre Änderungen öffentlich sichtbar.
 
 
-Verbesserungsvorschläge für diese Pflegeanleitung sehr gerne an philipp@neue-musik.com
+Eine neue Seite erstellen
+-------------------------
+
+Im der oberen Menüleiste auf der linken Seite finden Sie den Menüpunkt "Seite". Dort gibt es den Unter-Menüpunkt "Seite hinzufügen".
+
+
+Vorlagen
+--------
+
+Wenn Sie im "Entwurf" Modus sind, können Sie im Menü "Seite" > "Vorlagen" die Vorlage Ihrer Seite ändern. Damit sollten Sie ganz vorsichtig sein. Die Vorlage bestimmt, in welche Bereiche Ihre Seite eingeteilt ist. Typischerweise hat etwas die Startseite eine andere Vorlage, als die restlichen Seiten.
+
+
+Besonderheiten
+--------------
+
+### Zwei Sorten von Zeilenumbrüchen
+
+In allen gängigen Webeditoren gibt es zwei Möglichkeiten, eine neue Zeile zu beginnen. ENTER und STEUERUNG+ENTER. Mit der ENTER Taste beginnen Sie einen neuen Absatz, der einen gewissen Abstand zur vorherigen Zeile haben sollte. Durch Drücken von STEUERUNG+ENTER fügen Sie einen regulären Zeilenumbruch ein, der keinen besonderen Abstand zur vorherigen Zeile hat.
+
+
+### Setzen von Links
+
+Wenn Sie im Editor keinen Knopf finden, um Links zu erzeugen, dann finden Sie dort im Menü "CMS Plugins" die Möglichkeit, dies zu tun.
+
+
+Abmelden
+--------
+
+Im der oberen Menüleiste finden Sie links die Internetadresse Ihrer Webseite (voreingestellt ist example.com). Dort gibt es den Unter-Menüpunkt "Admin abmelden".
+
+
+Passwort ändern
+---------------
+
+So etwas kann nie schaden .. außer Sie vergessen das Passwort deshalb.
+
+Hierzu klicken Sie in der oberen Menüleiste wieder auf die Internetadresse Ihrer Webseite und dann auf "Administration ...". Im sich dann öffnenden Menü wählen Sie "Benutzer" aus und anschließend Ihren eigenen Benutzernamen. Relativ oben steht, dass das Passwort über "dieses Formular" geändert werden kann. Wenn Sie jetzt auf "dieses Formular" klicken, können Sie ein neues Passwort angeben.
+
+
+Verbesserungsvorschläge für diese Pflegeanleitung sehr gerne an philipp@neue-musik.com  
+Verbesserungen in Forks auch gerne.
