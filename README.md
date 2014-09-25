@@ -83,18 +83,19 @@ In allen gängigen Webeditoren gibt es zwei Möglichkeiten, eine neue Zeile zu b
 Wenn Sie im Editor keinen Knopf finden, um Links zu erzeugen, dann finden Sie dort im Menü "CMS Plugins" die Möglichkeit, dies zu tun.
 
 
-Abmelden
---------
-
-Im der oberen Menüleiste finden Sie links die Internetadresse Ihrer Webseite (voreingestellt ist example.com). Dort gibt es den Unter-Menüpunkt "Admin abmelden".
-
-
 Passwort ändern
 ---------------
 
 So etwas kann nie schaden .. außer Sie vergessen das Passwort deshalb.
 
 Hierzu klicken Sie in der oberen Menüleiste wieder auf die Internetadresse Ihrer Webseite und dann auf "Administration ...". Im sich dann öffnenden Menü wählen Sie "Benutzer" aus und anschließend Ihren eigenen Benutzernamen. Relativ oben steht, dass das Passwort über "dieses Formular" geändert werden kann. Wenn Sie jetzt auf "dieses Formular" klicken, können Sie ein neues Passwort angeben.
+
+
+Abmelden
+--------
+
+Im der oberen Menüleiste finden Sie links die Internetadresse Ihrer Webseite (voreingestellt ist example.com). Dort gibt es den Unter-Menüpunkt "Admin abmelden".
+
 
 
 Verbesserungsvorschläge für diese Pflegeanleitung sehr gerne an philipp@neue-musik.com  
