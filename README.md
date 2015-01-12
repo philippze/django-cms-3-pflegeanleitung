@@ -8,15 +8,8 @@ Sie ist geeignet für Django CMS Installationen ab Version 3.0.
 Anmelden als Administrator
 --------------------------
 
-Rufen Sie Ihre Webseite auf. Löschen Sie in der Internetadresse alles ab dem ersten Schrägstrich (/) und schreiben Sie stattdessen "/admin". Geben Sie dann Ihre Benutzerdaten ein.
+Rufen Sie die Seite auf, die Sie bearbeiten möchten. Hängen Sie in der Adresszeile des Browsers folgendes an: "?edit" und drücken Sie die Enter-Taste. Dann werden Sie zur Eingabe von Benutzername und Passwort aufgefordert. Nach erfolgreicher Eingabe sind Sie angemeldet. Ihnen werden dann Knöpfe zum Bearbeiten Ihrer Seite angezeigt, von denen im Folgenden einige erklärt werden.
 
-
-Zwei Oberflächen Ihrer Webseite
--------------------------------
-
-Nach dem Anmelden bekommen Sie einen Blick auf die **Administrationsoberfläche** Ihrer Webseite. Diese brauchen Sie aber in vielen Fällen gar nicht. Das Django-CMS erlaubt es, so gut wie alle Inhalte im "Frontend" zu bearbeiten, also dort, wo sie auch angezeigt werden. Sie können sich also nach der erfolgreichen Anmeldung wieder zurück zur **grafisch ausgearbeiteten Oberfläche** Ihrer Webseite begeben und werden dort dann ein paar Knöpfe finden, mit denen Sie jede Seiten bearbeiten können.
-
-Sie können auch über die Administrationsoberfläche zu jeder einzelnen Seite navigieren. Under dem Abschnitt "CMS" > "Seiten" finden Sie Ihren kompletten Seitenbaum.
 
 
 Zwei Modi zum Betrachten einer Seite
